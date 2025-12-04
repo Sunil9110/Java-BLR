@@ -16,6 +16,7 @@ public class ArrayRevers {
         }
         System.out.println(Arrays.toString(a));
         System.out.println("program ends...");
+        System.out.println("program ends...");
 
     }
 }
